@@ -1,6 +1,8 @@
 # spotifyplus
 This project is a simple recreation of Spotify using only C++
 
+https://github.com/sebastiantuyu/spotifyplus/blob/master/main.png
+
 Nota: Notaran que el peso del proyecto es algo elevado. Esto se debe a que la unica forma en la que logre reproducir audio
 es usando una extension .wav para los audios (sin compresión) lo que los hace muy pesados. Los invito a modificar los mismos 
 si desean experimentar con el proyecto.
